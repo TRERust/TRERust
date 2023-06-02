@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CODEGTPS&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=TREGTPS&show_icons=true&theme=radical">
 </p>
 
 ## 🧑‍💻Languages & tools
@@ -30,5 +30,5 @@
 
 ## 💻 Connect with me
 [![Youtube](https://img.shields.io/badge/-Youtube-c4302b?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/TREGTPS)
-![Discord](https://img.shields.io/badge/-CØDE%237474-7289da?style=flat-square&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/-TRE%237474-7289da?style=flat-square&logo=discord&logoColor=white)
 [![Discord Server](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/et7CHETHgS)
