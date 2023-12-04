@@ -1,8 +1,4 @@
 <p align="center">
-<img src="https://discord.c99.nl/widget/theme-2/803381542004850688.png">
-</p>
-
-<p align="center">
 <a href="https://discord.com/users/335988287913066498"><img align="center" src="https://lanyard.cnrad.dev/api/803381542004850688?bg=23283d&borderRadius=8px"/></a>
 </p>
 
