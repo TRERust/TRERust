@@ -23,5 +23,5 @@
 
 ## 💻 Connect with me
 [![Youtube](https://img.shields.io/badge/-Youtube-c4302b?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/TREGTPS)
-![Discord](https://img.shields.io/badge/-TRE%237474-7289da?style=flat-square&logo=discord&logoColor=white)
-[![Discord Server](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/et7CHETHgS)
+![Discord](https://img.shields.io/badge/-dev__tre-7289da?style=flat-square&logo=discord&logoColor=white)
+[![Discord Server](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/e92yW4fRhC)
