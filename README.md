@@ -12,5 +12,5 @@
 
 ## 💻 Connect with me
 [![Youtube](https://img.shields.io/badge/-Youtube-c4302b?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@TRE_Rust)
-[![Discord](https://discord.com/channels/@me/1202336484120875058)
+[![Discord](https://img.shields.io/badge/-tre_doesit-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/@me/1202336484120875058)
 [![Discord Server](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/comingsoon)
